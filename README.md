@@ -24,7 +24,7 @@ Consulte o site da [Microsoft](https://learn.microsoft.com/pt-br/sql/connect/odb
 Dentro da pasta raiz do projeto:
 1. Crie o ambiente virtual:
 ```bash
-python.exe -m venv meu_venv
+python -m venv meu_venv
 ``` 
 Irá aparecer no inicio da linha de comando a seguinte informação `(meu_venv)`
 
