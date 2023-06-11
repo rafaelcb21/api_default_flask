@@ -1,0 +1,13 @@
+
+POST http://127.0.0.1:5000/simulacao/produto HTTP/1.1
+content-type: application/json
+
+{"prazo": 5, "valorDesejado": 900}
+
+
+### GET
+GET http://127.0.0.1:5000/simulacao/produto HTTP/1.1
+
+
+### GET
+GET http://127.0.0.1:5000/simulacao HTTP/1.1
